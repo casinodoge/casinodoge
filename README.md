@@ -24,4 +24,6 @@ Temos uma explicação bem completa aqui: https://dicesites.com/provably-fair
 
 Também temos uma explicação legal no wikipedia: https://en.wikipedia.org/wiki/Provably_fair_algorithm
 
+Whitepaper do algoritmo: https://cryptogambling.org/whitepapers/provably-fair-algorithms.pdf
+
 Ou seja nosso casino não depende de terceiros é totalmente auditado pelos usuários!
