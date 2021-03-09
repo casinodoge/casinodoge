@@ -12,7 +12,7 @@ A HASH(semente) do cliente é sempre aberta e divulgada a todos(você pode inclu
 
 A HASH(semente) do servidor é divulgada, porém ela é protegida em SHA256!
 
-Portanto, se ANTES de você rolar os dados, você anotar as duas sementes(cleinte e servidor), após rolar os dados, iremos abrir para você a HASH(semente) do servidor sem o SHA256!
+Portanto, se ANTES de você rolar os dados, você anotar as duas sementes(cliente e servidor), após rolar os dados, iremos abrir para você a HASH(semente) do servidor sem o SHA256!
 
 Apos abrirmos para você, basta você comparar se o SHA256 bate com a semente aberta, isso quer dizer que utilizamos a mesma semente que mostramos para você, parece complicado mais é bem simples!
 
