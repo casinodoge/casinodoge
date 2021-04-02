@@ -1,6 +1,6 @@
 ### OI =) 👋
 
-Seja bem vindos a página do GITHUB do CasinoDoge.org, aqui vamos tentar explicar como o nosso sistema é seguro, justo e leal com os nossos usuários! Então vamos lá =)
+Seja bem vindos a página do GITHUB do CasinoDoge, aqui vamos tentar explicar como o nosso sistema é seguro, justo e leal com os nossos usuários! Então vamos lá =)
 
 ### PROVABLY FAIR
 
